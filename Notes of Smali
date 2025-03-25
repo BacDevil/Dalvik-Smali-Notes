@@ -1,1 +1,3 @@
-In the context of Android applications, the .dex files contains bytecode that is interpreted by the Dalvik Virtual Machine (DVM) or the newer Android Runtime (ART). The assembly-like language used in .dex files called Smali.
+In the context of Android applications, 
+The .dex files contains bytecode that is interpreted by the Dalvik Virtual Machine (DVM) or the newer Android Runtime (ART). 
+The assembly-like language used in .dex files called Smali.
