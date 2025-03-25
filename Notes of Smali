@@ -1,3 +1,11 @@
 In the context of Android applications, 
 The .dex files contains bytecode that is interpreted by the Dalvik Virtual Machine (DVM) or the newer Android Runtime (ART). 
 The assembly-like language used in .dex files called Smali.
+
+=(SMALI SYNTAX)=========
+
+(1)-Registers: 
+            Smali uses registers to represent variables. 
+            Registers are represented by [v0, v1, v2] etc
+            
+
